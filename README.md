@@ -25,7 +25,7 @@ The directory [grammar](/grammar) includes the full specification of the context
 
 #### Code
 
-The directory [code][/code] includes all the code used to conduct the experiments. To run the code, please install the packages listed in the `requirements.txt` file. To do so, go to the root folder of the repository and run the following commands:
+The directory [code](/code) includes all the code used to conduct the experiments. To run the code, please install the packages listed in the `requirements.txt` file. To do so, go to the root folder of the repository and run the following commands:
 
 ```bash
 cd code

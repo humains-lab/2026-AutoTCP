@@ -6,7 +6,7 @@
 - Aurora Ramírez (corresponding author)
 - Carlos García-Martínez
 
-HUMAINS Research group
+[HUMAINS Research group](https://www.uco.es/humains)
 
 Department of Computer Science and Artificial Intelligence, University of Córdoba, 14071, Córdoba, Spain
 
